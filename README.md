@@ -20,3 +20,6 @@ To visualize the sales data and extract meaningful insights such as:
 - Total Sales
 - Total Profit
 - Total Orders
+
+# KPI Sales
+TOtal
