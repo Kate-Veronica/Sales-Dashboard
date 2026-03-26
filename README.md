@@ -32,5 +32,30 @@ To visualize the sales data and extract meaningful insights such as:
 - Segment
 - Order Date (Month)
 
-  ----------
+## Key Insights
+- Identified the top-performing regions based on sales
+- Analyzed the monthly sales trends to understand the seasonality of sales
+- Identified the most profitable product categories
+- Evaluated the performance at the subcategory level
+
+## Project Files
+- Sales Dashboard.pbix (Power BI file)
+- dataset.csv (Source data)
+- Dashboard Screenshots (Visual preview)
   
+## Dashboard Preview
+(Add your screenshots here)
+
+Example:
+- KPI Overview Screenshot
+- Full Dashboard View
+
+## Outcome
+The skills demonstrated in this project are:
+- Data Visualization
+- Business Intelligence Reporting
+- Power BI Dashboard Development
+
+## Author
+Kate Veronica Theetla
+-----------
