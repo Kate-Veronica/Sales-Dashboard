@@ -21,5 +21,16 @@ To visualize the sales data and extract meaningful insights such as:
 - Total Profit
 - Total Orders
 
-# KPI Sales
-TOtal
+### 🔹 Visualizations
+- Monthly Sales Trend (Line Chart)
+- Sales by Region (Bar Chart)
+- Sales by Category (Pie Chart)
+
+### 🔹 Filters (Slicers)
+- Region
+- Category
+- Segment
+- Order Date (Month)
+
+  ----------
+  
